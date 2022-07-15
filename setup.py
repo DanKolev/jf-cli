@@ -8,15 +8,15 @@ def read_requirements():
 
 
 setup(
-    name='ran',
-    version='1.0',
-    py_modules=["ran"],
+    name='jf',
+    version='0.0.1',
+    py_modules=["jf"],
     packages = find_packages(),
     include_package_data=True,
     install_requires=read_requirements(),
     entry_points={
         'console_scripts': [
-        'ran=ran_cli.cli:cli'
+        'jf=jf_cli.cli:cli'
         ],
     },
 )
