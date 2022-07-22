@@ -1,0 +1,10 @@
+README.md
+setup.py
+jf.egg-info/PKG-INFO
+jf.egg-info/SOURCES.txt
+jf.egg-info/dependency_links.txt
+jf.egg-info/entry_points.txt
+jf.egg-info/requires.txt
+jf.egg-info/top_level.txt
+jf_cli/__init__.py
+jf_cli/cli.py

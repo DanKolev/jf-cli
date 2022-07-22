@@ -1,0 +1,3 @@
+[console_scripts]
+jf = jf_cli.cli:cli
+

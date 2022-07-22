@@ -9,7 +9,7 @@ def read_requirements():
 
 setup(
     name='jf',
-    version='0.0.1',
+    version='1.0',
     py_modules=["jf"],
     packages = find_packages(),
     include_package_data=True,
